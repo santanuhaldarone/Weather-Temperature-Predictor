@@ -12,3 +12,7 @@ A very simple ML project to predict the temperature in Delhi based on weather fe
 
 ## 📈 Dataset
 - Delhi climate data from Kaggle (2013–2017)
+
+---
+
+**Made with ❤️ by Santanu**

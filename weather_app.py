@@ -18,3 +18,6 @@ input_data = np.array([[humidity, wind_speed, mean_pressure]])
 if st.button("Predict Temperature"):
     prediction = model.predict(input_data)[0]
     st.success(f"Predicted Temperature: {prediction:.2f}°C")
+
+st.markdown("---")
+st.caption("Made with ❤️ by Santanu")
